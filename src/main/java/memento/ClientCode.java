@@ -14,5 +14,6 @@ public class ClientCode {
         System.out.println("Before: " + editor.getText());
         command.undo();
         System.out.println("After: " + editor.getText());
+		System.out.println("This is test");
     }
 }
