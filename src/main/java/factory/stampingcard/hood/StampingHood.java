@@ -1,6 +1,6 @@
-package factory.hood;
+package factory.stampingcard.hood;
 
-import factory.StampingEquipment;
+import factory.stampingcard.StampingEquipment;
 
 public interface StampingHood extends StampingEquipment {
     StampingHood stampHood();

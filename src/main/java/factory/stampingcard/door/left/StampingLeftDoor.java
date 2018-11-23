@@ -1,6 +1,6 @@
-package factory.door.left;
+package factory.stampingcard.door.left;
 
-import factory.StampingEquipment;
+import factory.stampingcard.StampingEquipment;
 
 public interface StampingLeftDoor extends StampingEquipment {
     StampingLeftDoor stampLeftDoor();

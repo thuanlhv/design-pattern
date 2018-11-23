@@ -1,4 +1,4 @@
-package factory;
+package factory.stampingcard;
 
 public interface StampingEquipment {
     default void stampBodyPart() {

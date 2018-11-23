@@ -1,4 +1,4 @@
-package factory.door.left;
+package factory.stampingcard.door.left;
 
 public class Model2LeftDoor implements StampingLeftDoor {
 
