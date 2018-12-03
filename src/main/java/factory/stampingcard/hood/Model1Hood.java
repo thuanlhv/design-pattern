@@ -1,4 +1,4 @@
-package factory.hood;
+package factory.stampingcard.hood;
 
 public class Model1Hood implements StampingHood {
 

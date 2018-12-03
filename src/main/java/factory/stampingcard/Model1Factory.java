@@ -1,11 +1,11 @@
-package factory;
+package factory.stampingcard;
 
-import factory.door.left.Model1LeftDoor;
-import factory.door.left.StampingLeftDoor;
-import factory.door.right.Model1RightDoor;
-import factory.door.right.StampingRightDoor;
-import factory.hood.Model1Hood;
-import factory.hood.StampingHood;
+import factory.stampingcard.door.left.Model1LeftDoor;
+import factory.stampingcard.door.left.StampingLeftDoor;
+import factory.stampingcard.door.right.Model1RightDoor;
+import factory.stampingcard.door.right.StampingRightDoor;
+import factory.stampingcard.hood.Model1Hood;
+import factory.stampingcard.hood.StampingHood;
 
 public class Model1Factory implements AbstractModelFactory {
     @Override
